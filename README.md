@@ -1,6 +1,6 @@
 ### Hello World!
 
-I'm Helder Meyer,  I'm a Student of Computer Engineer at Universidade Salvador, and I've been studying in tech since 2021.
+I'm Helder Meyer,  I'm a Student of Computer Engineering at UNIFACS, and I've been studying in tech since 2021.
 
 [![Linkedin: HelderMeyer](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helder-meyer/)](https://www.linkedin.com/in/helder-meyer/)
 

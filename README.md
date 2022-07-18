@@ -1,6 +1,7 @@
 ### Hello World!
 
-I'm Helder Meyer,  I'm a Student of Computer Engineer at Universidade Salvador, and I've been studying in tech since 2021. 
+I'm Helder Meyer,  I'm a Student of Computer Engineer at Universidade Salvador, and I've been studying in tech since 2021.
+
 Eu sou Helder Meyer, estudante de Engenharia de Computação na Universidade Salvador e estudo programação e tecnologia desde 2021.
 
 [![Linkedin: HelderMeyer](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helder-meyer/)](https://www.linkedin.com/in/helder-meyer/)
@@ -8,6 +9,7 @@ Eu sou Helder Meyer, estudante de Engenharia de Computação na Universidade Sal
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
+
 Essas são algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)

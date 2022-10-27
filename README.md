@@ -23,6 +23,4 @@ These are some of the technologies and tools that I work with:
 ![Microsoft World](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
 

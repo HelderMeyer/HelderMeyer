@@ -2,8 +2,6 @@
 
 I'm Helder Meyer,  I'm a Student of Computer Engineering at UNIFACS, and I've been studying in tech since 2021.
 
-[![Linkedin: HelderMeyer](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helder-meyer/)](https://www.linkedin.com/in/helder-meyer/)
-
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:

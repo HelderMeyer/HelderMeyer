@@ -1,6 +1,6 @@
 ### Hello World!
 
-I'm Helder Meyer,  I'm a Student of Computer Engineering at UNIFACS, and I've been studying in tech since 2021.
+I'm Helder Meyer,  I'm a Student of Computer Engineering, and I've been studying in tech since 2021.
 
 ## ⚡ Technologies
 

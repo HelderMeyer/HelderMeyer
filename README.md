@@ -1,6 +1,9 @@
 ### Hello World!
 
-I'm Helder Meyer, a Student of Computer Engineering and I have been studying technology since 2021.
+I'm Helder Meyer, a passionate computer engineering student and I have been studying technology since 2021.
+Currently, I'm focusing on web development using C# and ASP.NET Core MVC, building web applications with database connections.
+
+**Feel free to reach out if you have any questions or want to collaborate.**
 
 ## ⚡ Technologies
 

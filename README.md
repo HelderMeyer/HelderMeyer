@@ -37,20 +37,4 @@ Feel free to reach out for collaboration opportunities or tech discussions!
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-### 🌱 Current Learning Path
-- **Core Python**: Advanced OOP, Algorithms & Data Structures
-- **Data Science**: Pandas, NumPy, Matplotlib
-- **Web Frameworks**: Django, Flask
-- **Automation & Scripting**
-
-### 🌱 Python Learning Roadmap
-
-```mermaid
-graph TD
-    A[Python Fundamentals] --> B[Intermediate Concepts]
-    B --> C[Web Development]
-    B --> D[Data Analysis]
-    B --> E[Automation]
-    C --> F[Advanced Topics]
-    D --> F
-    E --> F
+### 📫 Let's connect: [LinkedIn](https://linkedin.com/in/helder-meyer)
